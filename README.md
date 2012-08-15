@@ -1,5 +1,5 @@
-This repository contains various cod snippets written in [Pascal Programming Language](http://en.wikipedia.org/wiki/Pascal_%28programming_language%29)
-This aims to be a collection of random math and logic problems, implemented for learning purposes.
+This repository contains various cod snippets written in [Pascal Programming Language](http://en.wikipedia.org/wiki/Pascal_%28programming_language%29).<br/>
+It aims to be a collection of random math and logic problems, implemented for learning purposes.
 
 ## Compilers ##
 A collection of compilers can be found here:
