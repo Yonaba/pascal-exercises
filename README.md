@@ -1,5 +1,10 @@
-This repository contains various cod snippets written in [Pascal Programming Language](http://en.wikipedia.org/wiki/Pascal_%28programming_language%29).<br/>
+This repository contains various code snippets written in [Pascal Programming Language](http://en.wikipedia.org/wiki/Pascal_%28programming_language%29).<br/>
 It aims to be a collection of random math and logic problems, implemented for learning purposes.
+
+## Usage ##
+Each folder contains two or more files.
+* A [Rich Text Format](http://en.wikipedia.org/wiki/Rich_Text_Format) file (*.rtf) containing an exercice statement and some implementation guidelines.
+* One or more Pascal (*.pas) source file(s) containing a possible solution implemented.
 
 ## Compilers ##
 A collection of compilers can be found here:
